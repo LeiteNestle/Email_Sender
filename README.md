@@ -13,6 +13,6 @@ It is possible to modify the text in several ways:
 
 - to put in bold just put the word (or phrase) between '_' and '#' (eg _bright #)
 - to italicize '_' and '$' (e.g. _calal $)
-- to underline '_' and '%' (e.g., underscore%
+- to underline '_' and '%' (e.g. _underscore%
 
 - to insert a value of the .xlsx file, put the column name between '_' and '@'
